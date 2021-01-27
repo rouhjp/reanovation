@@ -3,6 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">reanovation</h1>
+      <nuxt-link to=/user>News</nuxt-link>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
